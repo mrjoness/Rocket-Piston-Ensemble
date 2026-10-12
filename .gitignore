@@ -1,0 +1,8 @@
+# Large downloaded dataset files are hosted on Harvard Dataverse.
+rocket_piston_simulations/*.npy
+rocket_piston_simulations/*.npz
+
+# Python/Jupyter local files.
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
