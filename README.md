@@ -14,7 +14,7 @@ The dataset and its underlying methodology are associated with three publication
 
 D. T. Casey et al., *"A multi-rocket piston model to study three-dimensional asymmetries in implosions at the National Ignition Facility"* (2024).
 
-[Journal article (ScienceDirect)](https://www.sciencedirect.com/science/article/pii/S1574181824000971)
+[Journal article](https://www.sciencedirect.com/science/article/pii/S1574181824000971)
 
 Describes the multi-rocket piston simulation model used to generate the ensemble. This is the primary reference for the underlying simulation methodology.
 
